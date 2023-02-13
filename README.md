@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Project Template
 
 A low dependency and really simple to start project template for Python Projects.
@@ -84,3 +85,7 @@ $ project_name
 ## Development
 
 Read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+=======
+# sphinx_tutorial
+for code documentation
+>>>>>>> c8c365f8ccaaf90ec0fbf524225fc24fd963c2d3
