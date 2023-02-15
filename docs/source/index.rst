@@ -1,23 +1,49 @@
-sphinx-test's documentation!
-=======================================
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Welcome to Jubler's documentation!
+==================================
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Welcome to the complete beginner’s guide to Jubler! If you’re looking for a comprehensive guide to the Jubler subtitling software, then you’ve come to the right place.
+
+**Who is this course for?**
+
+You don’t need to know anything about Jubler to begin this course, this is completely beginner-friendly! Even if you have some subtitling experience, you’ll be sure to find this guide useful.
+
+All throughout the course, we will be creating and building upon a subtitling project. We’re going to be working with a Japanese cooking video as we cover all the basic tools provided by Jubler including creating, synchronizing, customizing and translating subtitles. Jubler can be used on both a MAC and a PC.
+
+If you’re completely new to Jubler, :ref:`install Jubler first <settingup>` and then explore these pages:
+
+ * :ref:`Creating Subtitles <create>`
+ * :ref:`Customizing Subtitles <customize>`
+ * :ref:`Saving and Exporting Subtitles <save>`
+
+If you’re looking for Jubler’s more advanced features, click on the links below.
+
+ * :ref:`Synchronizing Subtitles <synchronize>`
+ * :ref:`Translating Subtitles <translate>`
+
+These sections will cover all the information you need to create your own subtitled video.
+Remember to share this guide so that others can learn Jubler too!
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
 
-   install
-   support
+   beforeyoubegin
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Beginners
 
+   creating
+   customizing
+   saving
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Advanced
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   synchronizing
+   translating
