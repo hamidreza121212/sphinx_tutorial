@@ -28,6 +28,14 @@ Remember to share this guide so that others can learn Jubler too!
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :caption: Content
+
+   modules
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
 
    beforeyoubegin
 
