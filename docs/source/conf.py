@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Jubler'
-copyright = u'2019, Audrey'
-author = u'Audrey'
+project = u'sphinx tutorial'
+copyright = u'2023, Audrey'
+author = u'hamidreza'
 
 # The short X.Y version
 version = u''
 # The full version, including alpha/beta/rc tags
-release = u'0.1'
+release = u'0.1.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -59,7 +59,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
