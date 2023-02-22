@@ -4,14 +4,6 @@ module1 package
 Submodules
 ----------
 
-module1 module
---------------
-
-.. automodule:: module1
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 module1.file1 module
 --------------------
 

@@ -4,14 +4,6 @@ utils package
 Submodules
 ----------
 
-utils module
-------------
-
-.. automodule:: utils
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 utils.utils1 module
 -------------------
 
