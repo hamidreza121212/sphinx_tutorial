@@ -1,9 +1,9 @@
-sphinx_documentation
-====================
+sphinx
+======
 
 .. toctree::
    :maxdepth: 4
 
-   module1
    module2
+   module1
    utils

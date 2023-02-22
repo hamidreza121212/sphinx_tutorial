@@ -12,7 +12,7 @@ def file3_func1():
 
 
 def file3_func2(param1: int, param2: int):
-    """This function returns the sum of the values you pass in as arguments.
+    """This function returns the sum of the values you pass in as arguments.poe
 
     Args:
         param1 (int): Integer to sum.
