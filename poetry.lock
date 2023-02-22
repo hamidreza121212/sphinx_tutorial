@@ -326,14 +326,23 @@ use-chardet-on-py3 = ["chardet (>=3.0.2,<6)"]
 
 [[package]]
 name = "setuptools"
+<<<<<<< HEAD
 version = "67.3.2"
+=======
+version = "67.3.1"
+>>>>>>> 1e67dae7af1f1e425f5ee2eed152f45df39ed987
 description = "Easily download, build, install, upgrade, and uninstall Python packages"
 category = "main"
 optional = false
 python-versions = ">=3.7"
 files = [
+<<<<<<< HEAD
     {file = "setuptools-67.3.2-py3-none-any.whl", hash = "sha256:bb6d8e508de562768f2027902929f8523932fcd1fb784e6d573d2cafac995a48"},
     {file = "setuptools-67.3.2.tar.gz", hash = "sha256:95f00380ef2ffa41d9bba85d95b27689d923c93dfbafed4aecd7cf988a25e012"},
+=======
+    {file = "setuptools-67.3.1-py3-none-any.whl", hash = "sha256:23c86b4e44432bfd8899384afc08872ec166a24f48a3f99f293b0a557e6a6b5d"},
+    {file = "setuptools-67.3.1.tar.gz", hash = "sha256:daec07fd848d80676694d6bf69c009d28910aeece68a38dbe88b7e1bb6dba12e"},
+>>>>>>> 1e67dae7af1f1e425f5ee2eed152f45df39ed987
 ]
 
 [package.extras]
@@ -538,4 +547,8 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
+<<<<<<< HEAD
 content-hash = "83cf7a4383510c290e1a26e79c4d92e6448824e5d5e736c7191f35aa4460f4f3"
+=======
+content-hash = "996c9b420f2113e6da5e728846d7a6941739e6c77e7780ec689f2507d27328df"
+>>>>>>> 1e67dae7af1f1e425f5ee2eed152f45df39ed987
